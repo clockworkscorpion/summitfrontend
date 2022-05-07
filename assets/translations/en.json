@@ -1,0 +1,91 @@
+{
+	"navigation": {
+		"settings": "Settings",
+		"news": "News Feed",
+		"categories": "Categories"
+	},
+	"button": {
+		"refresh": "Update News",
+		"share": "Share"
+	},
+	"language": {
+		"selection": {
+			"message": "Please select a language from the list",
+			"title": "Language Selection"
+		}
+	},
+	"category": {
+		"tapcategories": "Tap on the categories you wish to follow",
+		"Done": "DONE",
+		"N": "National",
+		"G": "GCC",
+		"M": "Middle East",
+		"I": "India",
+		"P": "Pakistan",
+		"O": "East Asia & Oceania",
+		"U": "Europe",
+		"A": "Americas",
+		"F": "Africa",
+		"FB": "Football",
+		"K": "Cricket",
+		"S": "Sports",
+		"B": "Business & Markets",
+		"E": "Arts & Entertainment",
+		"T": "Science & Technology",
+		"W1": "Hollywood",
+		"W2": "Bollywood",
+		"C": "Automobiles",
+		"H": "Health",
+		"R": "Startups",
+		"L": "Philippines"
+	},
+	"newscard": {
+		"tapread": "Tap here to read more",
+		"tapback": "Tap here to go back",
+		"selected": " Selected"
+	},
+	"settings": {
+		"language": "Change Language",
+		"category": "Choose Categories",
+		"notifs": "Notifications",
+		"nightmode": "Night Mode",
+		"shareapp": "Share this App",
+		"rateapp": "Rate this App",
+		"feedback": "Send us Feedback",
+		"tandc": "Terms & Conditions",
+		"about": "About",
+		"privacy": "Privacy Statement",
+		"appname": "SummIt",
+		"imagecredits": "Category Image Credits",
+		"legal": "SummIt is a news aggregator and content delivery platform focused on delivering concise, immediate and accurate news to its users. To refer to our Terms and Conditions, and our Privacy Policy, please use the appropriate links in the settings page."
+	},
+	"share": {
+		"popuptitle": "Share",
+		"subject": "Check out my favourite news app!",
+		"text": "The best way to read the news: SummIt - the Short News App\n https://play.google.com/store/apps/details?id=com.summit.fuji"
+	},
+	"ratemyapp": {
+		"title": "What do you think of our app?",
+		"message": "If you like this app, please take a little bit of your time to review it! It really helps us and it should not take you more than a minute.",
+		"rate": "RATE",
+		"no": "NO",
+		"later": "LATER"
+	},
+	"tutorial": {
+		"button": "Tap the button to continue",
+		"category": "Select your favourite categories here",
+		"endtut": "That's it! Now stay updated with SummIt - the best way to read the news!",
+		"swipetosettings": "Swipe right to access the Settings",
+		"share": "Share this news card with your friends with just one tap!",
+		"refresh": "Tap this button to refresh your news feed",
+		"web": "Read the full article from the source with this button",
+		"swipeup": "Swipe up to read the next card",
+		"swipeup_desc": "SummIt News is delivered to you in short cards that give you the most important information.\n Tap the button to continue",
+		"language": "Change languages between English and Arabic",
+		"notifications": "Enable or disable notification alerts for important news here",
+		"nightmode": "Enable or disable Night Mode for easier reading at night",
+		"shareapp": "Share our app with your contacts",
+		"rateapp": "Rate our app. Don't forget to give us 5 stars!",
+		"feedback": "Send us your valuable feedback. We'd love to hear it!"
+	}
+}

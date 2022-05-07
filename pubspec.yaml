@@ -1,0 +1,99 @@
+name: fuji
+description: SummIt Main App
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_translate:
+  flutter_translate_preferences:
+  cupertino_icons:
+  http:
+#  flutter_swiper:           # 3D carousel
+  line_icons:               # Line Icons for NavBar
+  #  firebase_auth:            # Login for user
+  #  google_sign_in:           # Login for user
+  wc_flutter_share:
+  intl:
+  timeago:
+  hijri:
+  firebase_messaging:
+#  firebase_database:
+  postgrest:
+  cloud_firestore:
+  firebase_analytics:
+  fab_circular_menu:
+  clippy_flutter:
+  shared_preferences:
+  provider:
+  device_info:
+  flutter_email_sender:
+  screenshot:
+  path_provider:
+  bordered_text:
+  platform_action_sheet:
+  in_app_review:
+  flutter_inappwebview:
+  feature_discovery:
+  circular_check_box:
+  flutter_inner_drawer:
+  flutter_native_splash:
+  overlay_support:
+  transformer_page_view:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+  intl_translation:
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  adaptive_icon_foreground: "assets/icon/app_icon_foreground.png"
+  adaptive_icon_background: "assets/icon/app_icon_background.png"
+
+flutter_native_splash:
+  image: assets/splash/app_splash.png
+  color: "ffffff"
+  image_dark: assets/splash/app_splash_dark.png
+  color_dark: "000000"
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/i18n/en.json
+    - assets/i18n/ar.json
+    - assets/icon/
+    - assets/categoryimages/
+    - assets/tutorial/
+    - fonts/
+
+  fonts:
+
+    - family: FrutigerLT
+      fonts:
+        - asset: fonts/FrutigerLT/FrutigerLTArabic45Light.ttf
+
+    - family: SF-Pro
+      fonts:
+        - asset: fonts/SF-Pro/SF-Pro.ttf
+
+    - family: FinalFrontier
+      fonts:
+        - asset: fonts/FinalFrontier/Finalnew.ttf
