@@ -2,7 +2,7 @@
 
 Flutter frontend for Summit News App
 
-SummIt News was designed as a "Tiktok" for news. The frontend for this app was built on Flutter for both Android and iOS, and uses http requests to directly read from a Postgres Database containing filtered news articles sorted by relevance.
+SummIt News was designed as a "Tiktok" for news. The frontend for this app was built on Flutter for both Android and iOS, and uses http requests to directly read from a Firebase RTDB Database containing filtered news articles sorted by relevance.
 
 For more information about SummIt News, check out this link --> https://summitup.github.io/
 
